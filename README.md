@@ -9,4 +9,4 @@ Link Video : https://drive.google.com/file/d/10MbZ-0A2VYKmtrgdx3nW7UWwAZoTEWZA/v
 
 Hasil Output Program :
 
-![Alt Text](URL_GAMBAR)
+![Output1]([URL_GAMBAR](https://github.com/ZwingliRaja/UAS_Zwingli_LAB-AP2/blob/main/Output%20(1).png))
